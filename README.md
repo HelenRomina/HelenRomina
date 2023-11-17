@@ -1,6 +1,6 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/originals/32/a0/08/32a0080c4d6f7ef4d5fea9946a061e39.jpg" width=150px, height:150px, display:flex, justify-content:center> 
- <source media="(prefers-color-scheme: light)" srcset="https://i.pinimg.com/474x/82/16/19/8216192a00170d2c08a1a39cbfc43341.jpg" width=150px, height:150px, display:flex, justify-content:center>
+ <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/originals/32/a0/08/32a0080c4d6f7ef4d5fea9946a061e39.jpg" width=150px, height:150px> 
+ <source media="(prefers-color-scheme: light)" srcset="https://i.pinimg.com/474x/82/16/19/8216192a00170d2c08a1a39cbfc43341.jpg" width=150px, height:150px>
  <img alt="YOUR-ALT-TEXT" src="cute-fox">
 </picture>
 

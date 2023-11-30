@@ -15,11 +15,11 @@
 Currently, I'm changing of career from biomedical engineering to computer engineering. Futhermore, I'm learning some frameworks of Javascript.</p>
 
 <h2>Skills</h2>
-- Python
-- HTML5, CSS3, Javascript. 
-- Excel 
-
-
+- Python.
+-  HTML5, CSS3, Javascript. 
+- Excel. 
+- MATLAB. 
+- SQL. 
 
 <!---
 HelenRomina/HelenRomina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

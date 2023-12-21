@@ -8,7 +8,7 @@
 - 👀 I’m interested in Front-end and data analytics. 
 - 🌱 I’m currently learning and doing some projects in languages such as javascript.
 - 💞️ I’m looking to collaborate on a project. 
-- 📫 How to reach me: rominacm9@gmail.com
+- 📫 How to reach me: 
 
 - <h2>About me </h2>
 <p> I'm Helen Romina, I have an interest in robotics and automatization. 

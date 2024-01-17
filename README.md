@@ -5,7 +5,7 @@
 </picture>
 
 - 👋 Hi, I’m @HelenRomina
-- 👀 I’m interested in Front-end and data analytics. 
+- 👀 I’m interested in Front-end and back-end. 
 - 🌱 I’m currently learning and doing some projects in languages such as javascript.
 - 💞️ I’m looking to collaborate on a project. 
 - 📫 How to reach me: 

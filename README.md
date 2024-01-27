@@ -8,7 +8,7 @@
 - 👀 I’m interested in Front-end and back-end. 
 - 🌱 I’m currently learning and doing some projects in languages such as javascript.
 - 💞️ I’m looking to collaborate on a project. 
-- 📫 How to reach me: 
+- 📫 How to reach me: romina.cruz2451@gmail.com
 
 - <h2>About me </h2>
 <p> I'm Helen Romina, I have an interest in robotics and automatization. 

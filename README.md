@@ -12,7 +12,7 @@
 
 - <h2>About me </h2>
 <p> I'm Helen Romina, I have an interest in robotics and automatization. 
-Currently, I'm changing of career from biomedical engineering to computer engineering. Futhermore, I'm learning some frameworks of Javascript.</p>
+Currently, I'm changing of career from biomedical engineering. Futhermore, I'm learning some frameworks of Javascript.</p>
 
 <h2>Skills</h2>
 <li> Python.</li>

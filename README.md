@@ -4,7 +4,7 @@
  <img alt="YOUR-ALT-TEXT" src="cute-fox">
 </picture>
 
-- 👋 Hi, I’m @HelenRomina
+- 👋 Hi, 
 - 👀 I’m interested in Front-end and back-end. 
 - 🌱 I’m currently learning and doing some projects in languages such as javascript.
 - 💞️ I’m looking to collaborate on a project. 
